@@ -59,7 +59,7 @@ With boundary, this system follow some assumptions:
 • All cases are simulated on a specific version of SimPy and its environment.
 
 • All parameters are simulated on a specific version of random library
-<p align="center"> <img width = "60%" height = "20%" src="images/3.png"/>  </p> 
+<p align="center"> <img width = "60%" height = "20%" src="3.png"/>  </p> 
 The components of our simulator design contains:
 
 • Packet Generator: A Packet Generator simulates the sending of packets with a specified
